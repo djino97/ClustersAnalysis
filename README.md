@@ -1,5 +1,4 @@
 ClustersAnalysis
-
 The program is developed in C# using the WinForm UI library.
 
 Clustering is a Machine Learning technique that involves the grouping of data points.
