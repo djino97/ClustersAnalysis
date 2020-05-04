@@ -1,10 +1,8 @@
-ClustersAnalysis
-The program is developed in C# using the WinForm UI library.
+# Clusters analysis
 
-Clustering is a Machine Learning technique that involves the grouping of data points.
-
-The main function of the program is clustering  the input set of points, using different methods for this.
-
+The program is developed in C# using the WinForm UI library._
+Clustering is a Machine Learning technique that involves the grouping of data points._
+The main function of the program is clustering  the input set of points, using different methods for this._
 K-Means Clustering method.
 
 Determining the distance between points: euclidean distance and dominance distance.
