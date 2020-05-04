@@ -7,7 +7,7 @@ K-Means Clustering method.
 Determining the distance between points: euclidean distance and dominance distance.
 
 Interface state with initial values for clustering: 
-[alt text](image/cluster_1.jpg)
+![alt text](image/cluster_1.jpg)
 
 Found clusters after clustering:
 ![alt text](image/cluster_2.jpg) 
